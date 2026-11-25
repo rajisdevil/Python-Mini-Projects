@@ -51,7 +51,7 @@ This website can be hosted for free using GitHub Pages.
 6. Select `/ (root)` as the folder.
 7. Click Save.
 
-Your website will be published at:
+website published at:
 
 https://rajisdevil.github.io/Python-Mini-Projects/
 
